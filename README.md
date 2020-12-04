@@ -12,4 +12,9 @@
 
 ### Affectation des étudiants (en cours)
 
+| Etudiant   | choix 1 | choix 2 | choix 3 | date |
+| ---------- | ------- | ------- | ------- | ---- |
+| Léane Jourdan   | 21-2 | -    | -    | 2020.12.04 |
+| Maxime Traineau | 21-2 | 21-3 | 21-1 | 2020.12.04 |
+| Sylouan Corfa   | 21-3 | 21-1 | 21-2 | 2020.12.04 |
 
