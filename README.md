@@ -9,6 +9,7 @@
 | 21-1 | [Recommandation de citation : étendre les références aux textes plein](sujets/21-1.pdf) | Boudin / Daille| 2 |
 | 21-2 | [L'évaluation en Induction de Lexique Bilingue](sujets/21-2.pdf) | Laville / Morin      | 2 |
 | 21-3 | [Exploring the dynamics of written interaction thanks to Natural Language Processing analysis](sujets/21-3.pdf) | Hernandez | 3 |
+| 21-4 | [Smart OER semantic scrapper](sujets/21-4.pdf) | De la Higuera / Ben Romdhane | 3 |
 
 ### Affectation des étudiants (en cours)
 
