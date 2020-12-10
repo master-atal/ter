@@ -13,11 +13,12 @@
 
 ### Affectation des étudiants (en cours)
 
-| Etudiant        | 21-1 | 21-2 | 21-3 | 21-4 | date       |
-| --------------- | ---- | ---- | ---- | ---- | ---------- |
-| Léane Jourdan   | 3    | 1    | 2    | -    | 2020.12.04 |
-| Maxime Traineau | -    | 1    | -    | -    | 2020.12.04 |
-| Sylouan Corfa   | 2    | 3    | 1    | -    | 2020.12.04 |
-| Quentin Daëron  | 3    | 1    | 2    | -    | 2020.12.04 |
-| Séraphin Costa  | 2    | 4    | 3    | 1    | 2020.12.07 |
-
+| Etudiant         | 21-1 | 21-2 | 21-3 | 21-4 | date       |
+| ---------------- | ---- | ---- | ---- | ---- | ---------- |
+| Léane Jourdan    | 3    | 1    | 2    | -    | 2020.12.04 |
+| Maxime Traineau  | -    | 1    | -    | -    | 2020.12.04 |
+| Sylouan Corfa    | 2    | 3    | 1    | -    | 2020.12.04 |
+| Quentin Daëron   | 3    | 1    | 2    | -    | 2020.12.04 |
+| Séraphin Costa   | 2    | 4    | 3    | 1    | 2020.12.07 |
+| Ronan Belleil    | 1    | 3    | -    | 2    | 2020.12.09 |
+| Sylvain Beaudoin | 1    | 3    | -    | 2    | 2020.12.09 |
