@@ -1,5 +1,11 @@
 # Stages TER (Travail d’Etude et de Recherche)
 
+## 2021-2022
+
+| id   | Titre         | Encadrant(s)          | Nb étudiants |
+| ---- | ------------- | --------------   | -----:|
+| 22-1 | Implémentation et évaluation d'indicateurs de la complexité linguistique d'un écrit en français | Hernandez | 2 |
+
 ## 2020-2021
 
 ### Liste des sujets disponibles
