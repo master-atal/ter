@@ -5,6 +5,7 @@
 | id   | Titre         | Encadrant(s)          | Nb étudiants |
 | ---- | ------------- | --------------   | -----:|
 | 22-1 | [Implémentation et évaluation d'indicateurs de la complexité linguistique d'un écrit en français](sujets/22-1-hernandez-linguistic-complexity-indicators.pdf) | Hernandez | 2 |
+| 22-2 | [Une conférence multilingue](sujets/22-2-de-la-higuera-multilingual-conference.pdf) | De La Higuera | 2 |
 
 ## 2020-2021
 
