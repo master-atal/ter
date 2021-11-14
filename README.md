@@ -4,7 +4,7 @@
 
 | id   | Titre         | Encadrant(s)          | Nb étudiants |
 | ---- | ------------- | --------------   | -----:|
-| 22-1 | Implémentation et évaluation d'indicateurs de la complexité linguistique d'un écrit en français | Hernandez | 2 |
+| 22-1 | [Implémentation et évaluation d'indicateurs de la complexité linguistique d'un écrit en français](sujets/22-1-hernandez-linguistic-complexity-indicators.pdf) | Hernandez | 2 |
 
 ## 2020-2021
 
