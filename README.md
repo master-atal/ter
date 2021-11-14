@@ -6,6 +6,7 @@
 | ---- | ------------- | --------------   | -----:|
 | 22-1 | [Implémentation et évaluation d'indicateurs de la complexité linguistique d'un écrit en français](sujets/22-1-hernandez-linguistic-complexity-indicators.pdf) | Hernandez | 2 |
 | 22-2 | [Une conférence multilingue](sujets/22-2-de-la-higuera-multilingual-conference.pdf) | De La Higuera | 2 |
+| 22-3 | [Vers un TAL plus vert et durable : entraîner un modèle neuronal de génération de texte avec peu de données et de calculs](sujets/22-3-boudin-green-nlp.pdf) | Boudin | 2 |
 
 ## 2020-2021
 
