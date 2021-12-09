@@ -8,6 +8,15 @@
 | 22-2 | [Une conférence multilingue](sujets/22-2-de-la-higuera-multilingual-conference.pdf) | De La Higuera | 2 |
 | 22-3 | [Vers un TAL plus vert et durable : entraîner un modèle neuronal de génération de texte avec peu de données et de calculs](sujets/22-3-boudin-green-nlp.pdf) | Boudin | 2 |
 
+### Affectation des étudiants
+
+| Etudiant         | 22-1 | 22-2 | 22-3 | date       |
+| ---------------- | ---- | ---- | ---- | ---------- |
+| Mamadou Diallo   | -    | -    | 1    | 2021.12.06 |
+| Julien Aubert-Béduchaud | 3    | 1   | 2    | 2021.12.08 |
+| Thomas Lapierre | -    | 2   | 4    | 2021.12.09 |
+| Antoine Jamelot | 3    | 2   | 1    | 2021.12.09 |
+
 ## 2020-2021
 
 ### Liste des sujets disponibles
@@ -19,7 +28,7 @@
 | 21-3 | [Exploring the dynamics of written interaction thanks to Natural Language Processing analysis](sujets/21-3.pdf) | Hernandez | 3 |
 | 21-4 | [Smart OER semantic scrapper](sujets/21-4.pdf) | De la Higuera / Ben Romdhane | 3 |
 
-### Affectation des étudiants (en cours)
+### Affectation des étudiants
 
 | Etudiant         | 21-1 | 21-2 | 21-3 | 21-4 | date       |
 | ---------------- | ---- | ---- | ---- | ---- | ---------- |
