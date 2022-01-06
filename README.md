@@ -12,7 +12,7 @@
 
 | Etudiant         | 22-1 | 22-2 | 22-3 | date       |
 | ---------------- | ---- | ---- | ---- | ---------- |
-| Mamadou Diallo   | -    | -    | 1    | 2021.12.06 |
+| Mamadou Diallo   | -    | 2    | 1    | 2021.12.06 |
 | Julien Aubert-Béduchaud | 3    | 1   | 2    | 2021.12.08 |
 | Thomas Lapierre | -    | 2   | 4    | 2021.12.09 |
 | Antoine Jamelot | 3    | 2   | 1    | 2021.12.09 |
