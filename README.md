@@ -16,6 +16,9 @@
 | Julien Aubert-Béduchaud | 3    | 1   | 2    | 2021.12.08 |
 | Thomas Lapierre | -    | 2   | 4    | 2021.12.09 |
 | Antoine Jamelot | 3    | 2   | 1    | 2021.12.09 |
+| Tristan Faine  | 2    | 1   | 3    | 2021.12.10 |
+| Nabil Oulbaz   | - | 2 | 1 | 2021.12.10 |
+
 
 ## 2020-2021
 
