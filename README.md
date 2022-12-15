@@ -1,5 +1,14 @@
 # Stages TER (Travail d’Etude et de Recherche)
 
+## 2022-2023
+
+| id   | Titre         | Encadrant(s)          | Nb étudiants |
+| ---- | ------------- | --------------   | -----:|
+| 23-1 | [Génération de graphes de citation pour la recherche d’information](sujets/23-1.pdf) | Houbre/Boudin | 2 |
+| 23-2 | [Détection de tweets offensif en contexte](sujets/23-2.pdf) | Gallina | 2 |
+| 23-3 | [Construction d’un corpus biomédical annoté et évaluation des systèmes de reconnaissance d’entités nommées dans un domaine de spécialité](sujets/23-3.pdf) | El Khettari/Quiniou | 2 |
+
+
 ## 2021-2022
 
 | id   | Titre         | Encadrant(s)          | Nb étudiants |
