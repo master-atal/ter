@@ -8,6 +8,17 @@
 | 23-2 | [Détection de tweets offensif en contexte](sujets/23-2.pdf) | Gallina | 2 |
 | 23-3 | [Construction d’un corpus biomédical annoté et évaluation des systèmes de reconnaissance d’entités nommées dans un domaine de spécialité](sujets/23-3.pdf) | El Khettari/Quiniou | 2 |
 
+### Affectation des étudiants
+
+| Etudiant         | 22-1 | 22-2 | 22-3 | date       |
+| ---------------- | ---- | ---- | ---- | ---------- |
+| Laure D'ABRIGEON | -    | 1    | -    | 2022.12.9  |
+| Alix DELAGE      | -    | 1    | -    | 2022.12.9  |
+| Gesser RIAHI     | 2    | 3    | 1    | 2022.12.13 |
+| Adrien LESENECHAL| 2    | 3    | 1    | 2022.12.13 |
+| Hugo LEGUILLIER  | 2    | 1    | -    | 2022.12.14 |
+| Imran NAAR       | 2    | 1    | -    | 2022.12.14 |
+
 
 ## 2021-2022
 
